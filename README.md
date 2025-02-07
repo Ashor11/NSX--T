@@ -144,5 +144,3 @@ The NSX-T Data Center topology delivers scalable, secure, and flexible network v
 - Seamless traffic flows, including NAT for north-south traffic and Geneve encapsulation for east-west traffic.
 - Multi-site support for high availability and workload mobility.
 
-This architecture is optimized for dynamic environments, supporting modern application requirements and zero-trust security models.
-
