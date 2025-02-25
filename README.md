@@ -1,4 +1,5 @@
 # **NSX-T Topology Documentation**
+![Uploading Untitled Diagram.drawio (1).png…]()
 
 ## **1. Overview**
 This document provides a detailed overview of the NSX-T Data Center topology, focusing on its architecture, workflows, and security features. The NSX-T platform is designed to:
