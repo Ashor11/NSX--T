@@ -1,6 +1,5 @@
-![Untitled Diagram drawio (1)]
-
-(https://github.com/user-attachments/assets/b0dc2a53-70a7-4ee2-a544-6ec12dd7f775)# **NSX-T Topology Documentation**
+Topology Documentation**
+![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/28cb371c-09da-4efe-a752-17490013b0aa)
 
 
 ## **1. Overview**
